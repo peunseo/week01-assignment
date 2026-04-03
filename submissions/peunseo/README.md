@@ -1,5 +1,9 @@
 ### 🦁 멋쟁이사자처럼 1주차 과제
 
+---
+
+### 📍 개인 저장소
+[https://github.com/peunseo/week01-assignment](https://github.com/peunseo/week01-assignment)
 - **이름:** 박은서
 - **학번:** 5716001
 - **완료한 항목:**
