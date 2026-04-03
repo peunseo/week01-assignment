@@ -15,4 +15,4 @@
 ---
 
 ### 📸 과제 실행 결과 화면
-![과제 결과 화면](./result.png)
+![과제 결과 화면](./week01-page/result.png.png)
